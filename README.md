@@ -402,7 +402,7 @@ This project is intended for educational purposes and community benefit.
 
 **Project Lead:** Aneesa Atther
 - **GitHub:** [@Aneesa-atther](https://github.com/Aneesa-atther)
-- **Email:** [Your email here]
+- 
 
 **Track:** GenAI Android Development | **Category:** Infrastructure  
 **Submission Deadline:** April 2026
@@ -429,18 +429,7 @@ This project is intended for educational purposes and community benefit.
 
 ---
 
-## 📌 Quick Start Checklist
 
-- [ ] Clone the repository
-- [ ] Set up Firebase credentials
-- [ ] Build project in Android Studio
-- [ ] Install APK on test device
-- [ ] Test Station Search feature
-- [ ] Test Destination Alarm with GPS
-- [ ] Test Platform Ping real-time updates
-- [ ] Verify offline functionality
-
----
 
 **Status:** 🔨 **In Active Development**
 
